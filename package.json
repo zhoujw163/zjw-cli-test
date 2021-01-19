@@ -1,0 +1,22 @@
+{
+  "name": "zjw-cli-test",
+  "version": "1.1.2",
+  "description": "",
+  "bin": {
+    "zjw-cli-test": "bin/index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^7.0.0",
+    "dedent": "^0.7.0",
+    "yargs": "^16.2.0",
+    "z-test-lib": "^1.1.0"
+  },
+  "devDependencies": {}
+}
